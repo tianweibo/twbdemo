@@ -41,10 +41,5 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ],
-  "husky": {
-    "hooks": {
-         "commit-msg": "commitlint -x @commitlint/config-conventional -E HUSKY_GIT_PARAMS"
-     }
- }
+  ]
 }
